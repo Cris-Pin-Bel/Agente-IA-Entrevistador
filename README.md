@@ -1,7 +1,21 @@
-# Agente-IA-Instrevistador
+# Título do Projeto: Agente-IA-Entrevistador
 Simulador Inteligente de Entrevistas
 
 ---
+## 📒 Descrição
+- Com apoio da inteligência artificial, foi criado um resumo analítico estruturado sobre uma vaga de emprego, pensado para servir como base em entrevistas simuladas. Essa atividade fez parte do Bootcamp da DIO CAIXA Inteligência Artificial na Prática.
+
+
+## 🤖 Tecnologias Utilizadas
+- Bloco de notas
+- Copilot
+
+## 🧐 Processo de Criação
+- Foi dado no bootcamp um prompt inicial para que a IA ajudasse ao usuário elencar as premissas necessárias para a contratação em uma vaga de emprego, produzindo um resumo analítico estruturado da vaga.
+
+- Esse resumo foi fornecido à IA para atuar como Agente-IA-Intrevistador 
+
+## 🚀 Resultados
 
 ## 📌 Resumo da Vaga: Engenheiro de Machine Learning Júnior
 
