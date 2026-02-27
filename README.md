@@ -11,12 +11,10 @@ Simulador Inteligente de Entrevistas
 - Copilot
 
 ## 🧐 Processo de Criação
-- Foi dado no bootcamp um prompt inicial para que a IA ajudasse ao usuário elencar as premissas necessárias para a contratação em uma vaga de emprego, produzindo um resumo analítico estruturado da vaga.
-
-- Esse resumo foi fornecido à IA para atuar como Agente-IA-Intrevistador 
+- No bootcamp, foi proposto um prompt inicial para que a IA ajudasse o usuário a definir os principais requisitos de uma vaga de emprego, gerando um resumo analítico estruturado. Esse resumo foi então utilizado pela própria IA para simular o papel de entrevistador.
 
 ## 🚀 Resultados
-
+````
 ## 📌 Resumo da Vaga: Engenheiro de Machine Learning Júnior
 
 ### 1. Título e Propósito
@@ -38,7 +36,7 @@ Simulador Inteligente de Entrevistas
 - Afinidade com dados e código  
 - Gosto por resolver problemas  
 - Curiosidade e disposição para aprender continuamente
-
+````
 ---
 
 Esse perfil indica uma vaga voltada para **profissionais em início de carreira**, que terão oportunidade de consolidar fundamentos técnicos e desenvolver experiência prática em projetos de dados e machine learning, dentro de um ambiente que valoriza **curiosidade, proatividade e pensamento analítico**.  
