@@ -11,7 +11,7 @@ Simulador Inteligente de Entrevistas
 - Copilot
 
 ## 🧐 Processo de Criação
-- No bootcamp, foi proposto um prompt inicial para que a IA ajudasse o usuário a definir os principais requisitos de uma vaga de emprego, gerando um resumo analítico estruturado. Esse resumo foi então utilizado pela própria IA para simular o papel de entrevistador.
+- No bootcamp, foi proposto um prompt inicial para que a IA ajudasse o usuário a definir os principais requisitos de uma vaga de emprego, gerando um resumo analítico estruturado. Esse resumo foi então utilizado na própria IA para simular o papel de entrevistador.
 
 ## 🚀 Resultados
 ````
